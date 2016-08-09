@@ -2,12 +2,17 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/27.RemoveElement.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/21.MergeTwoSortedLists.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/24.SwapNodesinPairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30.SubstringwithConcatenationofAllWords.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/23.MergekSortedLists.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28.ImplementstrStr().cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/25.ReverseNodesinkGroup.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/29.DivideTwoIntegers.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26.RemoveDuplicatesfromSortedArray.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/22.GenerateParentheses.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
