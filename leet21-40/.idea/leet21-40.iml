@@ -2,28 +2,13 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/14LongestCommonPrefix.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/1TwoSum.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/7ReverseInteger.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4MedianofTwoSortedArrays.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/16.3SumClosest.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/20.ValidParentheses.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/5LongestPalindromicSubstring.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/9PalindromeNumber.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/11ContainerWithMostWate.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/8StringtoInteger(atoi).cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/12IntegertoRoman.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/3LongestSubstringWithoutRepeatingCharacters.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/19.RemoveNthNodeFromEndoList.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/6ZigZagConversion.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/10RegularExpressionMatching.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21.MergeTwoSortedLists.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/24.SwapNodesinPairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/15.3Sum.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/13RomantoInteger.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.AddTwoNumbers.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/17.LetterCombinationsofaPhoneNumber.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/18.4Sum.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23.MergekSortedLists.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25.ReverseNodesinkGroup.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22.GenerateParentheses.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
