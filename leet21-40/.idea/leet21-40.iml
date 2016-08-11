@@ -7,15 +7,19 @@
       <sourceFolder url="file://$MODULE_DIR$/35.SearchInsertPosition.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/29.DivideTwoIntegers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/34.SearchforaRange.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/27.RemoveElement.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/38.CountandSay.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/23.MergekSortedLists.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/24.SwapNodesinPairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/21.MergeTwoSortedLists.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/25.ReverseNodesinkGroup.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/37.SudokuSolver.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26.RemoveDuplicatesfromSortedArray.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/39.CombinationSum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/28.ImplementstrStr().cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/26.RemoveDuplicatesfromSortedArray.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/40.CombinationSumII.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/32.LongestValidParentheses.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/33.SearchinRotatedSortedArray.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/36.ValidSudoku.cpp" isTestSource="false" />
