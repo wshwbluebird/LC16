@@ -2,18 +2,23 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/65.ValidNumber.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/70.ClimbingStairs.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/66.PlusOne.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/69.Sqrt(x).cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/71.SimplifyPath.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/73.SetMatrixZeroes.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/74.Searcha2DMatrix.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/67.AddBinary.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/64.MinimumPathSum.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/68.TextJustification.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/62.UniquePaths.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/61.RotateList.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/72.EditDistance.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/75.SortColors.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/65.ValidNumber.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/64.MinimumPathSum.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/62.UniquePaths.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/68.TextJustification.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/63.UniquePathsII.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/70.ClimbingStairs.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/66.PlusOne.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
