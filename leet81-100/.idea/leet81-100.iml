@@ -2,15 +2,20 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/86.PartitionList.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/84.LargestRectangleinHistogram.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/88.MergeSortedArray.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/87.ScrambleString.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/90.SubsetsII.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/82.RemoveDuplicatesfromSortedListII.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/83.RemoveDuplicatesfromSortedList.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/87.ScrambleString.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/81.SearchinRotatedSortedArrayII.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/84.LargestRectangleinHistogram.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/89.GrayCode.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/92.ReverseLinkedListII.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/91.DecodeWays.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/86.PartitionList.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/85.MaximalRectangle.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/81.SearchinRotatedSortedArrayII.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
