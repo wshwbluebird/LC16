@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/89.GrayCode.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/92.ReverseLinkedListII.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/91.DecodeWays.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/93.RestoreIPAddresses.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/86.PartitionList.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/85.MaximalRectangle.cpp" isTestSource="false" />
